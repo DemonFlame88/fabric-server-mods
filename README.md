@@ -1,4 +1,4 @@
-# Fabric Server/client-side Mods
+# Fabric Server-side Mods
 
 ### Server Performance Mods
 - [Phosphor](https://modrinth.com/mod/phosphor)(server/client)
