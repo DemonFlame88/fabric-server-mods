@@ -43,3 +43,7 @@
 
 # Server side resource pack
 - [coming soon]()
+
+
+# Fabric client-side Mod
+- [Just click](https://www.curseforge.com/minecraft/modpacks/boosted-fps/files)
