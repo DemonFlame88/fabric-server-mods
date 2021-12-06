@@ -3,7 +3,6 @@
 ### Server Performance Mods
 - [Phosphor](https://modrinth.com/mod/phosphor)(server/client)
 - [Lithium](https://modrinth.com/mod/lithium)(server/client)
-- [Sodium](https://modrinth.com/mod/sodium)(client)
 - [Starlight](https://modrinth.com/mod/starlight)(server/client)
 - [Hydrogen](https://modrinth.com/mod/hydrogen)(server/client)
 
@@ -47,3 +46,4 @@
 
 # Fabric client-side Mod
 - [Just click](https://www.curseforge.com/minecraft/modpacks/boosted-fps/files)
+- [Sodium](https://modrinth.com/mod/sodium)(client)
