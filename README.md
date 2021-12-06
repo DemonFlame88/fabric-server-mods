@@ -42,8 +42,16 @@
 
 # Server side resource pack
 - [coming soon]()
+- [Setting A Server Resource Pack](https://youtu.be/_kpq7R2ur7o)
 
 
 # Fabric client-side Mod
 - [Just click](https://www.curseforge.com/minecraft/modpacks/boosted-fps/files)
 - [Sodium](https://modrinth.com/mod/sodium)(client)
+
+
+# cools mods
+- [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
+- [Skin Layers 3D (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+- [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons)
+- [FabricTailor](https://modrinth.com/mod/FabricTailor)
