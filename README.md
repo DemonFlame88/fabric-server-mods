@@ -60,3 +60,6 @@
 # Skin & Cape Finder
 - [skins](https://www.minecraftskins.com/)
 - [cape](https://minecraftcapes.net/gallery)
+
+
+# [Premade setup](https://www.dropbox.com/s/gz5k9fappxch6yr/server.zip?dl=0)
