@@ -55,3 +55,8 @@
 - [Skin Layers 3D (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 - [Fabric Seasons](https://www.curseforge.com/minecraft/mc-mods/fabric-seasons)
 - [FabricTailor](https://modrinth.com/mod/FabricTailor)
+
+
+# Skin & Cape Finder
+- [skins](https://www.minecraftskins.com/)
+- [cape](https://minecraftcapes.net/gallery)
